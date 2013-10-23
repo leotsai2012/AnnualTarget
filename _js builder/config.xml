@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Tasks>
+    <MergeTask>
+      <Name>Nova Data Framework</Name>
+      <SourceFolder>C:\Users\Administrator\Documents\GitHub\AnnualTarget\www\scripts\novas</SourceFolder>
+      <SourceExtensions>*.js</SourceExtensions>
+      <OutputFile>C:\Users\Administrator\Documents\GitHub\AnnualTarget\www\scripts\nova.all.js</OutputFile>
+    </MergeTask>
+    <MergeTask>
+      <Name>AT</Name>
+      <SourceFolder>C:\Users\Administrator\Documents\GitHub\AnnualTarget\www\scripts\at</SourceFolder>
+      <SourceExtensions>*.js</SourceExtensions>
+      <OutputFile>C:\Users\Administrator\Documents\GitHub\AnnualTarget\www\scripts\at.all.js</OutputFile>
+    </MergeTask>
+  </Tasks>
+</Config>
